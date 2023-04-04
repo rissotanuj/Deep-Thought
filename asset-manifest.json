@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Deep-Thought/static/css/main.2670b0e7.css",
+    "main.js": "/Deep-Thought/static/js/main.08285c0f.js",
+    "static/js/787.2d7d222b.chunk.js": "/Deep-Thought/static/js/787.2d7d222b.chunk.js",
+    "index.html": "/Deep-Thought/index.html",
+    "main.2670b0e7.css.map": "/Deep-Thought/static/css/main.2670b0e7.css.map",
+    "main.08285c0f.js.map": "/Deep-Thought/static/js/main.08285c0f.js.map",
+    "787.2d7d222b.chunk.js.map": "/Deep-Thought/static/js/787.2d7d222b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2670b0e7.css",
+    "static/js/main.08285c0f.js"
+  ]
+}
